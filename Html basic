@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>
+           HTML Basic
+        </title>
+        <h1>Hello this is my website </h1> 
+    </head>
+    <body>
+        <Ul>
+            <li>you can get dark wallpapers</li>
+            <li>cars wallpaper</li>
+            <li>and classical wallpaper</li>
+            <li>and others</li>
+        </Ul>
+        <h2>wallpapers</h2>
+        <img src="image02.jpg" width="510" hight="500">
+        <img src="image07.jpg" width="510" hight="500">
+        <img src="image10.jpg" width="510" hight="500">
+    </body>
+</html>
+<a href="https://pixabay.com/">More</a>
